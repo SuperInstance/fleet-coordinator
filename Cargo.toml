@@ -1,0 +1,9 @@
+[package]
+name = "fleet-coordinator"
+description = "Fleet node coordination: registration, health, task assignment, load balancing"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/fleet-coordinator"
+edition = "2021"
+
+[dependencies]
